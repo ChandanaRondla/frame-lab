@@ -6,6 +6,12 @@ FRAME / LAB is a React and TypeScript engineering dashboard for evaluating strea
 
 The project explores how different TV discovery layouts behave under local browser performance measurements and automated regression tests.
 
+## Live Demo
+
+[Open FRAME / LAB](https://frame-lab-fari.onrender.com)
+
+Explore the TV Simulator, compare two interface variants, run browser-performance benchmarks, and inspect release quality gates.
+
 ## Features
 
 ### TV Interface Simulator
