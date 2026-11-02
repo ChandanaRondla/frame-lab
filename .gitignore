@@ -38,3 +38,7 @@ playwright-report/
 # Local backups
 *.backup
 *.bak
+
+# Additional development backups
+*.backup-*
+*-backup.*
