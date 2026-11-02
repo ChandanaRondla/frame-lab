@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Interstellar",
+    "year": 2014,
+    "poster": "/posters/interstellar.jpg"
+  },
+  {
+    "name": "Inception",
+    "year": 2010,
+    "poster": "/posters/inception.jpg"
+  },
+  {
+    "name": "Dune",
+    "year": 2021,
+    "poster": "/posters/dune.jpg"
+  },
+  {
+    "name": "The Batman",
+    "year": 2022,
+    "poster": "/posters/the-batman.jpg"
+  },
+  {
+    "name": "Oppenheimer",
+    "year": 2023,
+    "poster": "/posters/oppenheimer.jpg"
+  },
+  {
+    "name": "Arrival",
+    "year": 2016,
+    "poster": "/posters/arrival.jpg"
+  },
+  {
+    "name": "Blade Runner 2049",
+    "year": 2017,
+    "poster": "/posters/blade-runner-2049.jpg"
+  },
+  {
+    "name": "The Martian",
+    "year": 2015,
+    "poster": "/posters/the-martian.jpg"
+  },
+  {
+    "name": "Gravity",
+    "year": 2013,
+    "poster": "/posters/gravity.jpg"
+  },
+  {
+    "name": "The Dark Knight",
+    "year": 2008,
+    "poster": "/posters/tmdb-155.jpg"
+  },
+  {
+    "name": "Tenet",
+    "year": 2020,
+    "poster": "/posters/tmdb-577922.jpg"
+  },
+  {
+    "name": "Dunkirk",
+    "year": 2017,
+    "poster": "/posters/tmdb-374720.jpg"
+  },
+  {
+    "name": "The Prestige",
+    "year": 2006,
+    "poster": "/posters/tmdb-1124.jpg"
+  },
+  {
+    "name": "Memento",
+    "year": 2000,
+    "poster": "/posters/tmdb-77.jpg"
+  },
+  {
+    "name": "Dune: Part Two",
+    "year": 2024,
+    "poster": "/posters/tmdb-693134.jpg"
+  },
+  {
+    "name": "Everything Everywhere All at Once",
+    "year": 2022,
+    "poster": "/posters/tmdb-545611.jpg"
+  },
+  {
+    "name": "Ex Machina",
+    "year": 2014,
+    "poster": "/posters/tmdb-264660.jpg"
+  },
+  {
+    "name": "The Matrix",
+    "year": 1999,
+    "poster": "/posters/tmdb-603.jpg"
+  },
+  {
+    "name": "Edge of Tomorrow",
+    "year": 2014,
+    "poster": "/posters/tmdb-137113.jpg"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "year": 2015,
+    "poster": "/posters/tmdb-76341.jpg"
+  },
+  {
+    "name": "Avatar",
+    "year": 2009,
+    "poster": "/posters/tmdb-19995.jpg"
+  },
+  {
+    "name": "Avatar: The Way of Water",
+    "year": 2022,
+    "poster": "/posters/tmdb-76600.jpg"
+  },
+  {
+    "name": "The Creator",
+    "year": 2023,
+    "poster": "/posters/tmdb-670292.jpg"
+  },
+  {
+    "name": "Ad Astra",
+    "year": 2019,
+    "poster": "/posters/tmdb-419704.jpg"
+  },
+  {
+    "name": "Moon",
+    "year": 2009,
+    "poster": "/posters/tmdb-17431.jpg"
+  },
+  {
+    "name": "District 9",
+    "year": 2009,
+    "poster": "/posters/tmdb-17654.jpg"
+  },
+  {
+    "name": "Looper",
+    "year": 2012,
+    "poster": "/posters/tmdb-59967.jpg"
+  },
+  {
+    "name": "Her",
+    "year": 2013,
+    "poster": "/posters/tmdb-152601.jpg"
+  },
+  {
+    "name": "Minority Report",
+    "year": 2002,
+    "poster": "/posters/tmdb-180.jpg"
+  },
+  {
+    "name": "Ready Player One",
+    "year": 2018,
+    "poster": "/posters/tmdb-333339.jpg"
+  }
+]
